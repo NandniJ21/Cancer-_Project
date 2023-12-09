@@ -1,4 +1,4 @@
-# Cancer-_Project
+# Cancer_Project
 Cancer type prediction from Histopathological images.
 
 Cancer type prediction from Histopathological images
